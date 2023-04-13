@@ -1,16 +1,26 @@
-# match
+<p align="center">
+    <img width="1200" src="https://github.com/RyamAlmalki/Match/blob/master/cover.png?raw=true" alt="Material Bread logo">
+</p>
 
-A new Flutter project.
 
-## Getting Started
+<h1 align="left">InVogue</h1>
+<p>InVogue is a Java based ecommerce platform with essential commerce features.</p>
 
-This project is a starting point for a Flutter application.
+<h1 align="left">Features</h1>
+<ul>
+  <li>Shopping cart</li>
+  <li>Product Filtering</li>
+  <li>User-Friendly Navigation</li>
+  <li>Payment</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="left">Demo</h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+    <img width="1000" src="https://github.com/RyamAlmalki/InVogue/blob/master/main_page.png" alt="Material Bread logo">
+</p>
+
+<p align="center">
+    <img width="1000" src="https://github.com/RyamAlmalki/InVogue/blob/master/product_page.png">
+</p>
