@@ -3,15 +3,14 @@
 </p>
 
 
-<h1 align="left">InVogue</h1>
-<p>InVogue is a Java based ecommerce platform with essential commerce features.</p>
+<h1 align="left">Match</h1>
+<p>Match is a mini flutter game that determins how fast you are on making a choice</p>
 
 <h1 align="left">Features</h1>
 <ul>
-  <li>Shopping cart</li>
-  <li>Product Filtering</li>
+  <li>Splash screen</li>
+  <li>Stopwatch bar</li>
   <li>User-Friendly Navigation</li>
-  <li>Payment</li>
 </ul>
 
 
