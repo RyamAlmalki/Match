@@ -17,6 +17,6 @@
 <h1 align="left">Demo</h1>
 
 <p align="center">
-    <img width="700" src="https://github.com/RyamAlmalki/Match/blob/master/pages.png?raw=true" alt="Material Bread logo">
+    <img width="800" src="https://github.com/RyamAlmalki/Match/blob/master/pages.png?raw=true" alt="Material Bread logo">
 </p>
 
