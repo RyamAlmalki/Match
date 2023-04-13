@@ -9,7 +9,7 @@
 <h1 align="left">Features</h1>
 <ul>
   <li>Splash screen</li>
-  <li>Stopwatch bar</li>
+  <li>Stopwatch</li>
   <li>User-Friendly Navigation</li>
 </ul>
 
@@ -17,6 +17,6 @@
 <h1 align="left">Demo</h1>
 
 <p align="center">
-    <img width="1000" src="https://github.com/RyamAlmalki/Match/blob/master/pages.png?raw=true" alt="Material Bread logo">
+    <img width="800" src="https://github.com/RyamAlmalki/Match/blob/master/pages.png?raw=true" alt="Material Bread logo">
 </p>
 
