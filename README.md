@@ -4,7 +4,7 @@
 
 
 <h1 align="left">Match</h1>
-<p>Match is a mini flutter game that determins how fast you are on making a choice</p>
+<p>Match is a mini flutter game that determines how fast you are on making a choice</p>
 
 <h1 align="left">Features</h1>
 <ul>
